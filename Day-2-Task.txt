@@ -1,0 +1,36 @@
+1Q)List 5 difference between Browser JS(console) v Nodejs
+
+Answer:- 
+
+-> In browser “window” is a predefined global object which has functions and attributes, where as Nodejs doesn’t have it.
+-> In browser “location” is another predefined object, where as Nodejs doesn’t have it.
+-> In browser “require” is not predefined object, where as Nodejs has it.
+-> In browser module is not required, where as in Nodejs you have to keep your code inside the module.
+-> In browser “document” is a predefined object, where as Nodejs doesn’t have it.
+_______________________________________
+2)watch & summary 5 points - https://www.youtube.com/watch?v=SmE4OwHztCc&ab_channel=JSConf
+
+3)To read - https://stackoverflow.com/questions/5641997/is-it-necessary-to-write-head-body-and-html-tags
+_______________________________________
+4Q)Execute the below code and write your description in txt file
+
+a) typeof(1) -> number
+
+b) typeof(1.1) -> number
+
+c) typeof('1.1') -> string
+
+d) typeof(true) -> boolean 
+
+e) typeof(null) -> object
+
+f) typeof(undefined) -> undefined
+
+g) typeof([]) -> object 
+
+h) typeof({}) -> object
+
+i) typeof(NaN) -> number
+
+_______________________________________
+5)Read what is prototype
